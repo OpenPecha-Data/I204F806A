@@ -1,0 +1,38 @@
+id: I204F806A
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T00:08:32.417128'
+last_modified: '2022-06-19T00:08:32.417144'
+parser: null
+source_metadata:
+  title: Supplement to Jam mgon A mes zhabss (1597–1659) Record of Teachings Received
+    (part XII)
+  author: ཨ་མྱེས་ཞབས་ངག་དབང་ཀུན་དགའ་བསོད་ནམས།
+  description: 'Digital version 2.0 {Tibetan}; master xml (completed: 2015-07-06);
+    unrevised, no thematic TEI markup'
+  file_info:
+  - 'Language: Tibetan'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:ས་སྐྱ་ཞིབ་འཇུག་ཁང་། (src)
+  - Text input:Guru Lama, Sachen International, Kathmandu (Nepal) (si)
+  - Editorial process:Mathias Fermer (mf), བསམ་གྲུབ། (Dharamsala) (sdr)
+  - TEI Encoding:ས་སྐྱ་ཞིབ་འཇུག་ཁང་།
+  - TEI Markup:-
+  - Revisions/Corrections:བསམ་གྲུབ།
+  text_witnesses: https://sakyaresearch.org/sources/782
+  bases:
+    cd54:
+      title: Supplement to Jam mgon A mes zhabss (1597–1659) Record of Teachings Received
+        (part XII)
+      order: 1
+      base_file: cd54.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
